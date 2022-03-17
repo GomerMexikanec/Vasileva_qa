@@ -2,4 +2,4 @@
 
 ---
 
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1K1pvUsbCbSvDsj6RG7931SYvuDYYRGwu0mzXub8S62A/edit#gid=1981122389)# Vasileva_qa
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1K1pvUsbCbSvDsj6RG7931SYvuDYYRGwu0mzXub8S62A/edit#gid=1981122389)
